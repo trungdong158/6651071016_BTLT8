@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 190">
+  <defs>
+    <linearGradient id="band" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#455f84"/><stop offset=".55" stop-color="#192d4b"/><stop offset="1" stop-color="#405878"/></linearGradient>
+    <linearGradient id="cup" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#304969"/><stop offset="1" stop-color="#12243e"/></linearGradient>
+  </defs>
+  <ellipse cx="120" cy="169" rx="73" ry="9" fill="#d7dde5"/>
+  <path d="M62 108V82a58 58 0 0 1 116 0v26" fill="none" stroke="#c7d0db" stroke-width="25" stroke-linecap="round"/>
+  <path d="M62 104V80a58 58 0 0 1 116 0v24" fill="none" stroke="url(#band)" stroke-width="19" stroke-linecap="round"/>
+  <path d="M64 83v33m112-33v33" stroke="#536e92" stroke-width="4" stroke-linecap="round"/>
+  <g transform="rotate(-12 76 123)">
+    <rect x="44" y="88" width="59" height="72" rx="24" fill="url(#cup)"/>
+    <rect x="52" y="97" width="43" height="57" rx="19" fill="#283f60"/>
+    <rect x="60" y="104" width="27" height="44" rx="13" fill="#162943"/>
+  </g>
+  <g transform="rotate(12 164 123)">
+    <rect x="137" y="88" width="59" height="72" rx="24" fill="url(#cup)"/>
+    <rect x="145" y="97" width="43" height="57" rx="19" fill="#283f60"/>
+    <rect x="153" y="104" width="27" height="44" rx="13" fill="#162943"/>
+  </g>
+  <path d="M58 108v17m124-17v17" stroke="#88a0c1" stroke-width="2" opacity=".75"/>
+</svg>
